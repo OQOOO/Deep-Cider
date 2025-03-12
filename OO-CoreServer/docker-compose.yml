@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  myapp:
+    image: oocoreserver:latest
+    ports:
+      - "32770:8080"
+      - "32771:8081"

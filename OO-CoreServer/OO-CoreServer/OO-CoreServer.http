@@ -1,0 +1,6 @@
+@OO_CoreServer_HostAddress = http://localhost:5260
+
+GET {{OO_CoreServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

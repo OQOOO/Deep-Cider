@@ -1,0 +1,6 @@
+/* 기본 마진 & 패딩 제거 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

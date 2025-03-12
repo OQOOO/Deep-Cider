@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OO-CoreServer",
+    "\\OO-CoreServer\\Controllers",
+    "\\OO-CoreServer\\DTOs",
+    "\\OO-CoreServer\\Services"
+  ],
+  "SelectedNode": "\\OO-CoreServer\\Services\\LLMApiClientService.cs",
+  "PreviewInSolutionExplorer": false
+}
